@@ -1,0 +1,150 @@
+SVR,Gradient Boosting
+Stücknummer,Produktgruppe Vertrieb
+Produktgruppe Vertrieb,SD Maschinenbez.
+Zweckbehandlung,AT3 Fäd.10 cm mitte
+Aktive Oberfläche-S,BM1 Modulnummer
+EA WERK,EA Chargen Status
+Akt. Status Type,NA Werk
+AT1 Fäd.10 cm rechts,Naht
+AT1 Werksversion,Randbehandlung
+AT2 Atrocross-ModNr.,VC2 Vliesmodulnummer
+AT3 Fäd.10 cm mitte,VR1 Arbeitsplatz
+AT3 Fadenz.pro 10 cm,SD Soll-Breite
+BM1 Modul Version,Abw.LD.n.d.Nad. Soll
+BM2 Modulnummer,_ -6% _= -11%
+BM4 Modul Version,BM1 Länge Soll
+EA Auftrag,BM3 Stücklistenpos.
+EA Charge,BM4 Stücklistenpos.
+Filzklasse,EA LD Textest VPE
+GG1 Gew. Mod.W.Vers.,GG1 Ges. o. Leiste
+GG1 Gew. Modul Vers.,GG2 Stücklistenposition
+GG2 Gew. Mod.W.Vers.,LAB Softness Q 75
+GG2 Gew. Modul Vers.,NA LD Textest VPE
+NA Chargenstatus,Nacharbeit
+NA Nadeltyp,PF Bondn.Ö. a.Linie
+NA Sperrvermerk Mu.,PF Bondn.ungl. Ösenl
+NA Werk,PTI Total
+Naht,VA3 Breite n.Vorfix.
+PF Chargenstatus,VC1 Legebreite
+PF KW 1.WE Prod.,Vorlauf der Naht PF
+PF Monat 1.WE Prod.,VR3 Breite
+PF Monat WE Prod.,VR3 Stücklistenpos.
+SD VK-Auftrag Pos.,WD bei 100 bar
+VA1 Gewebemodulnr.,
+VA2 Gew. Modul Vers.,
+VC1 Werkversion,
+VR1 Auftragsnummer,
+VR1 Chargenstatus,
+VR1 Werkversion,
+VR1 Z-Status,
+VR2 Auftragsnummer,
+VR2 Mischungsnummer,
+VR2 Versionsnummer,
+VR2 Werk,
+VR2 Z-Status,
+VR4 Versionsnummer,
+EA WE Datum a. Prod.,
+NA Letzte Änderung,
+REPORT_DATE,
+SD Soll-Breite,
+NA Dicke Soll,
+EA Dicke PF Textest,
+_ -15%,
+_ -6% _= -11%,
+_= -6% _= 6%,
+_ 6% _= 11%,
+3D Scan,
+Abrieb PS,
+Abrieb WS,
+Aktive Oberfläche,
+AT3 Basisbreite,
+Bezugsdehnung längs,
+BM2 Länge Soll,
+BM4 Länge Soll,
+BM4 Stücklistenpos.,
+EA Abw Länge Soll,
+EA Abw LD Textest,
+EA Breite n. Schm.,
+EA Dicke gen. Soll,
+EA Dicke rechts Tex.,
+EA Gewicht Abfall,
+EA Länge n. Fix. S,
+EA Länge n. Rundl. S,
+EA LD links,
+EA LD quer,
+EA Verlauf b. Anz.,
+Filznote,
+Fläche Probe,
+GG1 Ges. o. Leiste,
+GG1 Ges. o. Leiste S,
+GG1 Rietbteite,
+GG1 Weblänge CIR,
+GG1 Weblänge CIR S,
+Gutschriftswert in €,
+Höchstzugkraft lä WW,
+LAB Bezugsdeh. q GW,
+LAB HZK-Dehn. q GW,
+LAB HZKraft längs GW,
+LAB M-Fmax,
+LAB Softness l 1,
+LAB Softness l 75,
+LAB Softness Q 1,
+LAB Vliesanteil PS %,
+LAB Vliesanteil WS %,
+NA Anz fehl. Ösen,
+NA Breite n. Nadeln,
+NA Breite v. N. M30,
+NA Breite v. N. M40S,
+NA Gewicht n. nadeln,
+NA Gewicht n.Nad.S,
+NA Kerbentiefe,
+NA Länge v. Nadeln10,
+NA Länge v. Nadeln30,
+NA Länge v. Nadeln40,
+NA LD VPE,
+NA Trägergew.v.Nad.,
+PF Abw Flgew z Soll,
+PF Bondn.Ö. a.Linie,
+PF Dicke VPE,
+PF LD Endkontrolle,
+PF Steckdr. Durchm.,
+PF-VC2 Flächengewicht Soll,
+PF-VR2 Flächengewicht Soll,
+PTI Länge,
+Trennfestigk G-G,
+VA1 Breite v.Vorfix.,
+VA1 Länge v.Vorfix.,
+VA1 Vorfixierspann.,
+VA2 Breite n.Vorf.S,
+VA2 Breite v.Vorf.S,
+VA2 Breite v.Vorfix.,
+VA2 Länge n.Vorf.S,
+VA2 Länge n.Vorfix.,
+VA2 Länge v.Vorfix.,
+VA2 Stücklistenpos.,
+VA2 Vorfixierspann.,
+VA3 Breite v.Vorfix.,
+VA4 Breite n.Vorfix.,
+VA4 Stücklistenpos.,
+VA4 Vorfixierspann.,
+Var Höchstzk längs,
+VC1 Breite Vliesr.,
+VC1 Gewicht Vliesr.,
+VC1 Legebreite,
+VC2 Breite Ist,
+VC2 Legebreite,
+VC3 Breite Vliesr.,
+Vlies WS,
+Vliesgewicht WS,
+Vliesmenge PS gewogen,
+VR1 Breite,
+VR1 Flächengewicht,
+VR1 Länge,
+VR1 Legebreite,
+VR2 Länge,
+VR3 Breite,
+VR3 Stücklistenpos.,
+VR4 Legebreite,
+WD bei 60 bar,
+ID,
+WEAR,

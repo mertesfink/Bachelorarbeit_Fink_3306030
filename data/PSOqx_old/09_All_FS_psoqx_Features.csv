@@ -1,0 +1,73 @@
+SVR,Gradient Boosting
+neue Type,Produktgruppe Vertrieb
+NA Arbeitsp. nadeln,Benadelungstechnik
+SD Debitor,Oberflächenbehandlung
+AT2 Atrocross-ModNr.,neue Type
+AT2 Fäd.10 cm rechts,AT1 Fäd.10 cm mitte
+AT3 Werksversion,AT1 Versionsnummer
+BM1 Modulnummer,AT2 Versionsnummer
+BM4 Modulnummer,EA Z-Status
+EA Fixierungsart,GG1 Gewebemodulnr.
+GG1 Gewebemodulnr.,NA Nadeltyp
+GG2 Gew. Mod.W.Vers.,Naht
+GG2 Gew. Modul Vers.,PF Auftragsnummer
+GG2 Kettversion,PF Jahr WE Prod.
+NA Charge,PF Werk
+NA Nadeltyp,SD Kundenname
+PF Jahr 1.WE Prod.,VA2 Gew. Modul Vers.
+SD Maschine,VA2 Gewebemodulnr.
+SD VK-Auftrag Pos.,VR1 List-Code
+VA3 Gew. Modul Vers.,VR1 Versionsnummer
+VC1 Vliesmodulnummer,VR1 Werkversion
+VC1 Werkversion,VR1 Z-Status
+VC3 Werkversion,VR2 Versionsnummer
+VR1 List-Code,EA WE Datum a. Prod.
+VR1 Z-Status,Belegmuster Datum
+VR2 Charge,VR2 Letzte Änderung
+VR2 Mischungsnummer,PF Flächengewicht
+VR3 Versionsnummer,PF Flächengew. Type
+VR2 Letzte Änderung,Abw.LD.n.d.Nad. Soll
+VR2 WE Produktion,EA LD Textest
+SD Soll-Länge,EA Dicke PF Textest
+NA LD Typenstamm,_= -6% _= 6%
+NA Dicke Soll,Abrieb WS
+Abw.LD.n.d.Nad. Soll,AT1 Basisbreite
+_ -11% _= -15%,Bezugsdehnung längs
+3D Scan,BM4 Länge
+AT3 Basisbreite,Dicke bei 140 bar
+BM1 Länge Soll,Dicke bei 20 bar
+BM3 Länge,EA Dicke quer Tex.
+Dicke bei 20 bar,EA Dicke rechts Tex.
+EA Breite n. Fix. S,EA LD rechts
+EA Breite n. Schm.,GG1 Ges. o. Leiste
+EA Dicke links Tex.,GG1 Rietbteite
+GG1 Schußz m. Leiste,GG2 Schußz m. Leiste
+Höchstzugkraft lä WW,Höchszugk-Dehn quer
+LAB DickeFV,LAB Bezugsdeh. q GW
+LAB M-Fmax,LAB Softness l 25
+NA Anz fehl. Ösen,LAB Softness Q 75
+NA Breite v. N. M10,LAB VPI
+NA Länge n.d. Nadeln,NA Br. VR n. Vliesn.
+NA LD Tex Typenstamm,NA Breite n. Nadeln
+PF Abw Flgew z Soll,NA Länge v. Nadeln30
+PF Bondn.ungl. Ösenl,NA LD Textest VPE
+PF Durchm. Stahlsp.,NA Trägergew.vN Soll
+PF Schließzeit,PF Bondn.Ö. a.Linie
+PF Steckdr.Anz.Fäd.,PF Bondn.ungl. Ösenl
+PF-VR1 Flächengewicht Soll,PTI Breite
+Trennfestigk G-G,VA1 Breite v.Vorf.S
+VA1 Länge vor Vorfixieren Soll,VA1 Breite v.Vorfix.
+VA1 Vorfixierspann.S,VA2 Stücklistenpos.
+VA3 Stücklistenpos.,VA4 Stücklistenpos.
+VA3 Vorfixierspann.,Var Bezugsd längs
+Var HöchstzkD längs,Var HöchstzkD längs
+VC2 Gewicht Vliesr.,Vlies PS
+VC2 Länge,Vorlauf der Naht PF
+Vlies PS,VR1 Länge
+Vliesgewicht PS,VR2 Stücklistenpos.
+VR2 Flächengewicht,VR3 Flächengewicht
+VR3 Flächengewicht,
+VR3 Stücklistenpos.,
+VR4 Flächengewicht,
+WD bei 140 bar,
+WEAR,

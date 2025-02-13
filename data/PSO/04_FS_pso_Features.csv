@@ -1,0 +1,88 @@
+Gradient Boosting
+AT1 Fadenz.pro 10 cm
+AT2 Fäd.10 cm rechts
+AT3 Atrocross-ModNr.
+AT3 Fäd.30 cm links
+BM1 Modulnummer
+EA Fixierungsart
+NA Nadelb. Komb. S3
+NA Z-Status
+PF Jahr 1.WE Prod.
+PF Z-Status
+Randbehandlung
+SD VK-Auftrag Pos.
+VA1 Gewebemodulnr.
+VA2 Gewebemodulnr.
+VA4 Gew. Mod.W.Vers.
+VA4 Gew. Modul Vers.
+VC2 Werkversion
+VC3 Vliesmodulvers.
+VC3 Werkversion
+VR1 Arbeitsplatz
+VR1 Auftragsnummer
+VR1 Modulnummer
+VR2 Auftragsnummer
+VR3 Werkversion
+VR4 Versionsnummer
+NA WE Produktion
+PF WE aus Prod.
+VR1 Letzte Änderung
+VR1 WE Produktion
+VR2 WE Produktion
+Auflage Gewicht
+NA LD Typenstamm
+NA Dicke
+NA Dicke Soll
+PF Dicke Typ.
+AT1 Basisbreite
+AT2 Basisbreite
+AT3 Basisbreite
+BM2 Länge
+BM2 Länge Soll
+Dicke bei 100 bar
+Dicke bei 60 bar
+EA Dicke quer Tex.
+EA Dicke rechts Tex.
+EA Länge n.fixieren
+GG2 Rietbteite
+GG2 Rietbteite Soll
+LAB L Fmax
+LAB Softness l 25
+LAB Softness l 50
+LAB Softness Q 1
+LAB Softness Q 25
+NA Br. VR n. Vliesn.
+NA Breite n. Nad. S
+NA Breite v. N. M20
+NA Breite v. N. M20S
+NA GesBr. m.L.v.d.N.
+NA Kerbentiefe
+NA Länge v. Nadeln10
+NA Trägergew.v.Nad.
+PF Bond.n.offen
+PF Bondn.Ö. a.Linie
+PF n. fehlende Ösen
+PF Steckdr. Durchm.
+PF-VR1 Flächengewicht Soll
+PF-VR2 Flächengewicht Soll
+PTI Total
+VA1 Breite v.Vorfix.
+VA1 Länge vor Vorfixieren Soll
+VA1 Stücklistenpos.
+VA2 Breite v.Vorf.S
+VA3 Breite n.Vorfix.
+VA4 Länge n.Vorfix.
+Var Bezugsd quer
+Var Höchstzk quer
+VC2 Breite Ist
+VC3 Länge
+Vlies PS
+Vliesmeng WS
+VR1 Flächengewicht
+VR2 Breite
+VR2 Legebreite
+VR3 Länge
+VR3 Legebreite
+VR4 Flächengewicht
+VR4 Legebreite
+VR4 Stücklistenpos.

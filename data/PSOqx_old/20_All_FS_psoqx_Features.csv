@@ -1,0 +1,70 @@
+SVR,Gradient Boosting
+Benadelungstechnik,Stücknummer
+Oberflächenbehandlung,neue Type
+AT1 Atrocross-ModNr.,Aktive Oberfläche-S
+AT3 Fadenz.pro 10 cm,EA WERK
+AT3 Werksversion,SD Suchbegriff 1 K.
+BM2 Modul Version,AT1 Fäd.10 cm links
+BM4 Modul Version,AT1 Fäd.10 cm rechts
+EA Arbeitsplan,AT2 Atrocross-ModNr.
+GG1 Gew. Mod.W.Vers.,BM1 Modul Version
+GG2 Gew. Mod.W.Vers.,BM2 Modulnummer
+NA Sperrvermerk Mu.,BM3 Modul Version
+NA Z-Status,EA Arbeitsplan
+Naht,EA List-Code
+PF Chargenstatus,EA Z-Status
+PF Z-Status,GG1 Gewebemodulnr.
+Statistikgruppe,NA Auftragsnummer
+VC2 Vliesmodulvers.,Naht
+VR1 Chargenstatus,PF Arbeitplatz
+VR2 Auftragsnummer,PF Chargenstatus
+VR2 Charge,PF Z-Status
+VR2 Versionsnummer,SD Einsatzstelle
+VR3 Versionsnummer,Statistikgruppe
+NA Letzte Änderung,VA2 Gewebemodulnr.
+Auflage Gewicht,VA4 Gew. Modul Vers.
+EA Dicke PF Textest,VR1 Werkversion
+_ -15%,VR2 Chargenstatus
+_ 15%,VR2 Versionsnummer
+Abrieb PS,VR2 Werkversion
+AT1 Breite n d Wick.,VR2 Z-Status
+AT2 Wickellänge,VR4 Modulnummer
+AT3 Wickellänge,EA Letzte Änderung
+BM1 Stücklistenpos.,NA Letzte Änderung
+BM4 Länge,VR2 Letzte Änderung
+EA Breite n. Fix. S,_ -11% _= -15%
+EA Breite n. Schm.,_= -6% _= 6%
+EA Fixierspannung,_ 15%
+EA Pressdruck,AT2 Wickellänge
+GG1 Ges. o. Leiste S,Bezugsdehnung quer
+GG2 Rietbteite,BM1 Länge
+Gutschriftswert in €,Di. EA Textest
+LAB DickeFV,EA Abw Länge Soll
+LAB Softness l 1,EA Dicke links Tex.
+LAB Softness l 25,EA Dicke rechts Tex.
+LAB Softness Q 1,EA Gewicht Abfall
+LAB Softness Q 75,EA Länge n.fixieren
+LAB Vliesanteil WS %,Fläche Probe
+NA Br. VR n. Vliesn.,Gewicht Träger gewogen
+NA Breite v. N. M10S,Höchstzugkraft längs
+NA Breite v. N. M20,LAB Softness l 1
+NA LD Textest,LAB Softness Q 1
+NA LD VPE,LAB Softness Q 50
+NA n. fehlende Ösen,NA Gewicht n. nadeln
+NA Trägergew.v.Nad.,NA LD Textest VPE
+Nahtfestigkeit,NA LD VPE
+PTI  LD,PF. nach. fehl. Ösen
+VA1 Breite v.Vorfix.,PTI Breite
+VA2 Breite n.Vorf.S,Trennfestigk G-G
+VA2 Breite n.Vorfix.,VA1 Breite n.Vorfix.
+VA3 Breite v.Vorfix.,Var Nahtfestigkeit
+VA4 Stücklistenpos.,VC2 Länge
+Var Bezugsd quer,VC3 Gewicht Vliesr.
+VC3 Gewicht Vliesr.,VC3 Länge
+Vlies PS,VR1 Länge
+Vorlauf der Naht PF,VR3 Breite
+VR1 Breite,VR3 Flächengewicht
+VR2 Flächengewicht,VR4 Länge
+VR3 Länge,
+VR3 Stücklistenpos.,
+TENSILE_STRENGTH_RUNNING,

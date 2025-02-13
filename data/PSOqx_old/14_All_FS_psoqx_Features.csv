@@ -1,0 +1,113 @@
+SVR,Gradient Boosting
+Zweckbehandlung,SD Einsatzst.-bez.
+neue Type,GG2 Kettversion
+Aktive Oberfläche-S,VC2 Vliesmodulnummer
+Auflage Gewicht sum.,VR2 Werkversion
+NA Arbeitsp. nadeln,Abw LD z Sollwert
+SD Suchbegriff 1 K.,_ -11% _= -15%
+AT1 Fäd.10 cm links,AT1 Basisbreite
+AT1 Versionsnummer,AT1 Breite n d Wick.
+AT2 Fäd.10 cm mitte,BM3 Länge
+AT2 Fäd.10 cm rechts,BM4 Stücklistenpos.
+AT3 Fäd.30 cm links,EA Abw LD Textest
+BM1 Modul Version,EA Breite n. Fix. S
+BM2 Modul Version,Höchstzugkraft längs
+EA Fixierungsart,LAB Softness Q 1
+EA List-Code,NA Breite v. N. M10S
+GG1 Gew. Mod.W.Vers.,NA Breite v. N. M40
+NA Auftragsnummer,NA Gewicht Abfall
+NA Z-Status,NA LD Soll
+PF Jahr WE Prod.,NA n. fehlende Ösen
+PF Monat WE Prod.,VA1 Breite v.Vorf.S
+Randbehandlung,VA2 Länge vor Vorfixieren Soll
+SD Vertriebsbeleg,VC3 Gewicht Vliesr.
+SD VK-Auftrag Pos.,Vliesgewicht PS
+VA1 Gew. Mod.W.Vers.,VR1 Stücklistenpos.
+VA2 Gew. Modul Vers.,
+VA2 Gewebemodulnr.,
+VA3 Gew. Mod.W.Vers.,
+VA3 Gew. Modul Vers.,
+VA4 Gew. Modul Vers.,
+VC2 Vliesmodulvers.,
+VC2 Werkversion,
+VR1 Chargenstatus,
+VR1 Modulnummer,
+VR1 Werkversion,
+VR1 Z-Status,
+VR2 Versionsnummer,
+VR2 Werk,
+VR2 Z-Status,
+VR3 Modulnummer,
+VR3 Versionsnummer,
+VR4 Modulnummer,
+VR4 Werkversion,
+Belegmuster Datum,
+EA Letzte Änderung,
+REPORT_DATE,
+REMOVAL_DATE,
+NA Dicke Soll,
+EA Dicke PF Textest,
+Abw. Gewicht Muster,
+AT1 Wickellänge,
+AT2 Basisbreite,
+AT2 Wickellänge,
+AT3 Basisbreite,
+Bezugsdehnung längs,
+BM1 Breite Soll,
+BM1 Länge Soll,
+BM2 Länge Soll,
+BM3 Breite,
+BM4 Breite,
+Di. EA Textest,
+EA Abw Länge Soll,
+EA Breite n. Fix. S,
+EA Dicke gen. Soll,
+EA Dicke rechts Tex.,
+EA Fixiersp. Soll,
+EA LD rechts,
+Fläche Probe,
+GG2 Stücklistenposition,
+LAB Softness l 25,
+LAB Softness l 50,
+LAB Softness Q 50,
+LAB Vliesanteil PS %,
+NA Breite v. N. M10,
+NA Breite v. N. M10S,
+NA Breite v. N. M20S,
+NA Länge vor NadelnS,
+NA LD Soll,
+NA LD Tex Typenstamm,
+NA LD Textest VPE,
+Nahtfestigkeit WW,
+PF Bondn.ungl. Ösenl,
+PF LD Endkontrolle,
+PF Steckdr. Durchm.,
+PF Steckdr.Anz.Fäd.,
+PF-VR2 Flächengewicht Soll,
+PF. vorl. Fehl. Ösen,
+PTI  LD,
+PTI Total,
+VA1 Breite n.Vorf.S,
+VA1 Länge n.Vorfix.,
+VA1 Stücklistenpos.,
+VA2 Länge n.Vorfix.,
+VA2 Stücklistenpos.,
+VA3 Breite n.Vorfix.,
+VA3 Länge n.Vorfix.,
+VA3 Stücklistenpos.,
+VA4 Vorfixierspann.,
+Var Bezugsd quer,
+Var HöchstzkD längs,
+VC1 Gewicht Vliesr.,
+VC2 Breite Ist,
+Vlies PS,
+Vliesgewicht WS,
+VR1 Breite,
+VR1 Flächengewicht,
+VR1 Stücklistenpos.,
+VR2 Legebreite,
+VR3 Stücklistenpos.,
+VR4 Länge,
+WD bei 100 bar,
+WD bei 140 bar,
+TENSILE_STRENGTH_RUNNING,

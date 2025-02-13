@@ -1,0 +1,90 @@
+Gradient Boosting
+Stücknummer
+Zweckbehandlung
+Auflage Gewicht sum.
+AT1 Atrocross-ModNr.
+AT1 Fäd.10 cm rechts
+AT3 Atrocross-ModNr.
+AT3 Version
+AT3 Werksversion
+BM3 Modul Version
+BM3 Modulnummer
+BM4 Modul Version
+BM4 Modulnummer
+GG1 Gew. Mod.W.Vers.
+GG1 Gew. Modul Vers.
+NA Nadelb. Komb. S3
+NA Sperrvermerk Mu.
+PF Monat 1.WE Prod.
+Randbehandlung
+VA1 Gew. Modul Vers.
+VA2 Gew. Modul Vers.
+VA3 Gew. Mod.W.Vers.
+VC1 Vliesmodulnummer
+VC2 Vliesmodulnummer
+VR1 Auftragsnummer
+VR1 Versionsnummer
+VR3 Modulnummer
+VR3 Werkversion
+VR2 WE Produktion
+NA LD Typenstamm
+Abrieb WS
+Aktive Oberfläche
+AT2 Wickellänge
+AT3 Basisbreite
+BM1 Länge Soll
+BM2 Länge
+BM3 Breite Soll
+BM3 Länge
+BM4 Breite Soll
+BM4 Stücklistenpos.
+Dicke bei 100 bar
+EA Länge n.fixieren
+EA LD links
+Filznote
+GG2 Schußz m. Leiste
+GG2 Stücklistenposition
+Höchstzugkraft längs
+Höchstzugkraft quer
+Höchszugk-Dehn quer
+LAB Softness l 25
+LAB Softness Q 1
+LAB Softness Q 75
+LAB Trennfestigk. GW
+LAB VPI
+NA Anz fehl. Ösen
+NA Breite v. N. M30
+NA Breite v. N. M30S
+NA Kerbentiefe
+NA Länge v. Nadeln30
+NA LD Textest
+Nahtfestigkeit MW
+PF Flächengew. VPE
+PF Schließzeit
+PF-VC1 Flächengewicht Soll
+PTI Länge
+Trennfestigk G-G
+VA1 Breite v.Vorfix.
+VA1 Länge n.Vorf.S
+VA1 Länge n.Vorfix.
+VA2 Breite n.Vorf.S
+VA2 Länge vor Vorfixieren Soll
+VA2 Vorfixierspann.S
+VA3 Breite n.Vorfix.
+VA3 Vorfixierspann.
+VA4 Breite n.Vorfix.
+Var Abrieb PS
+Var Bezugsd längs
+Var Höchstzk längs
+VC1 Gewicht Vliesr.
+VC1 Länge
+VC2 Breite Ist
+VC2 Legebreite
+Vlies PS
+Vliesmenge PS gewogen
+VR1 Stücklistenpos.
+VR4 Stücklistenpos.
+WD bei 60 bar
+TENSILE_STRENGTH_RUNNING
+SEAM_STRENGTH_NEW
+AVERAGE_WIDTH

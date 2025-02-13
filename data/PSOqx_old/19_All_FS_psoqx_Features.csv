@@ -1,0 +1,62 @@
+SVR,Gradient Boosting
+Aktive Oberfläche-S,Ak. Sperrvermerk Mu.
+Ak. Sperrvermerk Mu.,AT2 Versionsnummer
+AT1 Atrocross-ModNr.,AT3 Werksversion
+AT1 Werksversion,BM2 Modulnummer
+AT2 Fäd.10 cm mitte,PF Chargenstatus
+EA Auftrag,PF List-Code
+EA List-Code,Randbehandlung
+GG1 Gewebemodulnr.,SD Kundenname
+NA Charge,VA4 Gew. Mod.W.Vers.
+NA Chargenstatus,VR1 Auftragsnummer
+Nadelvorschrift,VR1 Mischungsnummer
+VC2 Vliesmodulvers.,VR2 Werk
+VC2 Werkversion,VR1 Letzte Änderung
+VC3 Vliesmodulnummer,VR1 WE Produktion
+VR1 Chargenstatus,Auflage Gewicht
+VR1 Mischungsnummer,NA LD
+VR1 Versionsnummer,EA Dicke PF Textest
+VR4 Werkversion,_ 11% _= 15%
+VR2 Letzte Änderung,Abw. Gewicht Muster
+SD Soll-Länge,Aktive Oberfläche
+Abw.LD.n.d.Nad. Soll,AT1 Basisbreite
+_ -15%,Bezugsdehnung längs
+_ -11% _= -15%,BM1 Länge
+3D Scan,BM1 Stücklistenpos.
+AT2 Basisbreite,EA LD Textest VPE
+Bezugsdehnung quer,GG1 Ges. o. Leiste
+BM2 Breite,GG1 Rietbteite
+BM3 Breite Soll,GG1 Weblänge CIR S
+BM3 Stücklistenpos.,GG2 Rietbteite Soll
+Dicke bei 140 bar,Höchstzugkraft längs
+EA Länge n. Rundl. S,Höchstzugkraft quer
+GG1 Weblänge CIR,LAB Softness l 1
+LAB M-Fmax,NA Länge v. Nadeln20
+LAB Softness l 50,NA Trägergew.vN Soll
+LAB Softness Q 1,Nahtfestigkeit
+LAB Softness Q 50,PF Bondingnaht wellig
+NA Breite v. N. M10,PF Bondn.Ö. a.Linie
+NA Breite v. N. M10S,PF Dicke VPE
+NA Breite v. N. M20S,PF-VC1 Flächengewicht Soll
+NA Gewicht Abfall,PTI Länge
+NA Max. Spannung KN,VA1 Vorfixierspann.S
+NA Trägergew.v.Nad.,VA2 Breite v.Vorf.S
+PF Bondn.ungl. Ösenl,VA4 Breite n.Vorfix.
+PF-VR1 Flächengewicht Soll,VC3 Gewicht Vliesr.
+PF-VR3 Flächengewicht Soll,Vliesgewicht PS
+VA1 Breite n.Vorfix.,Vliesgewicht WS
+VA2 Breite n.Vorfix.,Vliesmeng WS
+VA3 Länge v.Vorfix.,VR4 Stücklistenpos.
+VA4 Länge n.Vorfix.,WD bei 100 bar
+VA4 Stücklistenpos.,
+Var Abrieb PS,
+VC1 Länge,
+VC1 Legebreite,
+VC2 Länge,
+VC2 Legebreite,
+Vlies PS,
+VR3 Flächengewicht,
+WD bei 100 bar,
+WD bei 140 bar,
+ID,
+WEAR,

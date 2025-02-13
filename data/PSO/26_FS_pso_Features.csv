@@ -1,0 +1,165 @@
+Gradient Boosting
+Produktgruppe Vertrieb
+Benadelungstechnik
+Auflage Gewicht sum.
+EA Arbeitsplatz
+Akt. Status Type
+AT1 Fäd.10 cm mitte
+AT1 Versionsnummer
+AT2 Fäd.20 cm links
+AT2 Fadenz.pro 10 cm
+AT2 Werksversion
+AT3 Fäd.30 cm links
+AT3 Werksversion
+BM1 Modul Version
+BM2 Modul Version
+BM2 Modulnummer
+BM3 Modulnummer
+BM4 Modul Version
+EA Arbeitsplan
+EA Chargen Status
+GG1 Gew. Modul Vers.
+NA Nadelb. Komb. S3
+NA Werk
+NA Z-Status
+PF Jahr WE Prod.
+PF KW 1.WE Prod.
+Produktgruppe Fertigung
+Randbehandlung
+SD Maschine
+SD VK-Auftrag Pos.
+VA1 Gewebemodulnr.
+VA2 Gew. Mod.W.Vers.
+VA2 Gew. Modul Vers.
+VA3 Gew. Modul Vers.
+VA4 Gew. Modul Vers.
+VA4 Gewebemodulnr.
+VC1 Vliesmodulnummer
+VC1 Werkversion
+VC3 Werkversion
+VR1 Chargenstatus
+VR1 List-Code
+VR1 Modulnummer
+VR2 Chargenstatus
+VR2 Mischungsnummer
+VR2 Versionsnummer
+VR2 Werk
+VR2 Z-Status
+VR3 Modulnummer
+VR3 Werkversion
+VR4 Werkversion
+Belegmuster Datum
+PF WE aus Prod.
+VR2 WE Produktion
+SD Soll-Länge
+PF Flächengewicht
+PF Flächengew. Type
+NA LD
+NA LD Typenstamm
+EA LD Text.Typenst.
+Abw LD z Sollwert
+PF Dicke Typ.
+_ -6% _= -11%
+_= -6% _= 6%
+3D Scan
+Abrieb PS
+Aktive Oberfläche
+AT3 Wickellänge
+BM1 Breite
+BM1 Breite Soll
+BM1 Länge
+BM1 Länge Soll
+BM2 Breite Soll
+BM2 Stücklistenpos.
+BM3 Breite Soll
+BM4 Breite
+BM4 Länge
+Di. EA Textest
+EA Abw Br n d Sch Soll
+EA Abw Länge Soll
+EA Breite n. Schm.
+EA Dicke rechts Tex.
+EA Fixierspannung
+EA Gewicht Abfall
+EA Länge n. Fix. S
+EA Länge n.fixieren
+EA LD quer
+EA LD rechts
+EA Pressdruck
+Gewicht Muster
+Gewicht Träger gewogen
+GG1 Ges. o. Leiste
+GG1 Rietbteite
+GG2 Ges. o. Leiste S
+GG2 Rietbteite Soll
+GG2 Schußz m. Leiste
+LAB DickeFV
+LAB HZK-Dehn. q GW
+LAB M-10
+LAB Nahtfestigk. GW
+LAB Softness l 25
+LAB Softness Q 75
+LAB Vliesanteil PS %
+LAB Vliesanteil WS %
+LAB VPI
+NA Breite n. Nadeln
+NA Breite v. N. M10S
+NA Gewicht n. nadeln
+NA Kerbentiefe
+NA Länge v. Nadeln10
+NA LD Textest VPE
+NA LD VPE
+NA n. fehlende Ösen
+NA Trägergew.v.Nad.
+Nacharbeit
+Nahtfestigkeit MW
+Nahtfestigkeit WW
+PF Bondingnaht wellig
+PF Dicke
+PF Gew. Endkontr.
+PF-VC2 Flächengewicht Soll
+PF. vorl. Fehl. Ösen
+PTI Breite
+PTI Total
+VA1 Breite n.Vorfix.
+VA1 Breite v.Vorf.S
+VA1 Stücklistenpos.
+VA1 Vorfixierspann.
+VA2 Breite v.Vorfix.
+VA2 Länge v.Vorfix.
+VA2 Vorfixierspann.
+VA3 Breite n.Vorfix.
+VA3 Breite v.Vorfix.
+VA3 Länge n.Vorfix.
+VA3 Stücklistenpos.
+VA3 Vorfixierspann.
+VA4 Breite n.Vorfix.
+VA4 Länge n.Vorfix.
+VA4 Stücklistenpos.
+Var Abrieb PS
+Var Bezugsd längs
+Var Höchstzk quer
+VC1 Gewicht Vliesr.
+VC2 Länge
+VC3 Breite Vliesr.
+VC3 Legebreite
+Vlies PS
+Vlies WS
+Vliesgewicht PS
+Vliesmeng PS
+Vliesmenge PS gewogen
+VR1 Breite
+VR1 Länge
+VR1 Stücklistenpos.
+VR2 Flächengewicht
+VR2 Länge
+VR3 Breite
+VR3 Länge
+VR3 Legebreite
+VR4 Flächengewicht
+VR4 Länge
+VR4 Legebreite
+WD bei 140 bar
+ASH_INSOLUBLE
+TENSILE_STRENGTH_CROSS_NEW
+WEAR

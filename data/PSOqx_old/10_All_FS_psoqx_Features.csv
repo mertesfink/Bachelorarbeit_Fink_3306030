@@ -1,0 +1,88 @@
+SVR,Gradient Boosting
+Aktive Oberfläche-S,AT2 Fäd.10 cm mitte
+EA WERK,BM1 Modulnummer
+NA Arbeitsp. nadeln,EA Z-Status
+SD Einsatzst.-bez.,NA Nadelb. Komb. S2
+AT1 Fäd.10 cm links,PF List-Code
+AT1 Fäd.10 cm mitte,VA3 Gew. Mod.W.Vers.
+AT2 Fäd.10 cm mitte,VC2 Werkversion
+AT2 Versionsnummer,VC3 Vliesmodulnummer
+AT3 Fäd.10 cm rechts,VR1 Werkversion
+AT3 Werksversion,VR1 WE Produktion
+BM1 Modul Version,VR2 Letzte Änderung
+BM4 Modulnummer,_ 15%
+EA Charge,AT2 Wickellänge
+GG1 Kettversion,AT3 Basisbreite
+GG2 Gew. Modul Vers.,BM2 Breite Soll
+GG2 Kettversion,BM3 Breite
+NA Nadelb. Komb. S1,GG1 Rietbteite Soll
+NA Sperrvermerk Mu.,VA1 Vorfixierspann.S
+NA Werk,VA2 Länge v.Vorfix.
+NA Z-Status,Var Abrieb WS
+Randbehandlung,Vorlauf der Naht PF
+VA1 Gewebemodulnr.,VR4 Breite
+VA2 Gewebemodulnr.,
+VA3 Gewebemodulnr.,
+VA4 Gew. Modul Vers.,
+VC1 Vliesmodulvers.,
+VC1 Werkversion,
+VC2 Vliesmodulvers.,
+VR2 Chargenstatus,
+VR2 Modulnummer,
+VR2 Z-Status,
+VR3 Versionsnummer,
+EA Letzte Änderung,
+PF Erstes WE-Datum,
+VR2 Letzte Änderung,
+NA Dicke Soll,
+Abw.LD.n.d.Nad. Soll,
+AT2 Basisbreite,
+AT3 Wickellänge,
+Bezugsdehnung längs,
+Di. EA Textest,
+EA Dicke rechts Tex.,
+EA Länge n. Rundl. S,
+EA LD links,
+EA LD Textest VPE,
+Gewicht Muster,
+Gewicht Träger gewogen,
+GG1 Schußz m. Leiste,
+GG1 Weblänge CIR S,
+GG2 Rietbteite,
+GG2 Rietbteite Soll,
+Höchstzugkraft lä WW,
+Höchstzugkraft längs,
+LAB HZKraft längs GW,
+LAB Softness l 75,
+LAB Softness Q 75,
+LAB Vliesanteil PS %,
+NA Anz fehl. Ösen,
+NA Breite v. N. M10S,
+NA Breite v. N. M20,
+NA Breite v. N. M30,
+NA Breite v. N. M40S,
+NA Länge v. Nadeln30,
+NA LD Tex Typenstamm,
+NA Max. Spannung KN,
+NA v. fehlende Ösen,
+Nacharbeit,
+PF Bondingnaht wellig,
+PF Bondn.Ö. a.Linie,
+PF Bondn.ungl. Ösenl,
+PF n. fehlende Ösen,
+PF-VR3 Flächengewicht Soll,
+PTI Flächengewicht,
+PTI Länge,
+VA1 Breite v.Vorf.S,
+VA1 Länge vor Vorfixieren Soll,
+VA1 Vorfixierspann.,
+VA3 Vorfixierspann.,
+VA4 Stücklistenpos.,
+Var Bezugsd längs,
+VC1 Breite Vliesr.,
+VR1 Breite,
+VR2 Länge,
+VR4 Flächengewicht,
+WD bei 140 bar,
+ID,
+WEAR,

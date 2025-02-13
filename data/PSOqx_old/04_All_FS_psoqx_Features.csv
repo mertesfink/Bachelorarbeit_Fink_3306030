@@ -1,0 +1,89 @@
+SVR,Gradient Boosting
+Produktgruppe Vertrieb,Stücknummer
+Zweckbehandlung,Auflage
+neue Type,Benadelungstechnik
+NA Arbeitsp. nadeln,Zweckbehandlung
+SD Einsatzst.-bez.,neue Type
+Ak. Sperrvermerk Mu.,Aktive Oberfläche-S
+AT1 Atrocross-ModNr.,SD Einsatzst.-bez.
+AT3 Fäd.10 cm mitte,Ak. Sperrvermerk Mu.
+AT3 Fadenz.pro 10 cm,AT1 Versionsnummer
+EA Arbeitsplan,AT1 Werksversion
+EA Z-Status,AT2 Fäd.10 cm mitte
+GG1 Gew. Mod.W.Vers.,AT2 Fäd.10 cm rechts
+GG2 Kettversion,AT2 Versionsnummer
+NA Nadelb. Komb. S2,AT3 Fäd.10 cm mitte
+NA Sperrvermerk Mu.,AT3 Fadenz.pro 10 cm
+PF Arbeitplatz,AT3 Version
+PF List-Code,BM1 Modulnummer
+PF Z-Status,EA Z-Status
+Randbehandlung,NA Nadelb. Komb. S3
+SD VK-Auftrag Pos.,NA Z-Status
+Stücknummer_1,PF Jahr 1.WE Prod.
+VA1 Gew. Mod.W.Vers.,Produktgruppe Fertigung
+VA3 Gewebemodulnr.,SD VK-Auftrag Pos.
+VA4 Gew. Mod.W.Vers.,VA1 Gewebemodulnr.
+VA4 Gewebemodulnr.,VA3 Gew. Mod.W.Vers.
+VC1 Werkversion,VA3 Gewebemodulnr.
+VC2 Vliesmodulnummer,VC1 Vliesmodulvers.
+VR2 Arbeitsplatz,VC1 Werkversion
+VR2 Charge,VC2 Vliesmodulvers.
+VR2 Mischungsnummer,VC3 Vliesmodulvers.
+VR2 Werk,VC3 Werkversion
+VR3 Modulnummer,VR1 Versionsnummer
+VR4 Modulnummer,VR2 Chargenstatus
+NA WE Produktion,VR2 Mischungsnummer
+NA Letzte Änderung,VR3 Versionsnummer
+VR1 WE Produktion,EA WE Datum a. Prod.
+Auflage Gewicht,SD Soll-Breite
+NA Dicke,PF Flächengew. Type
+_ -6% _= -11%,NA Dicke
+_= -6% _= 6%,NA Dicke Soll
+Abw. Gewicht Muster,_ -15%
+AT2 Basisbreite,Abw. Gewicht Muster
+BM3 Länge,AT2 Wickellänge
+Dicke bei 100 bar,AT3 Basisbreite
+EA Dicke rechts Tex.,Bezugsdehnung längs
+EA Fixierspannung,BM1 Breite
+EA LD rechts,BM2 Breite Soll
+Fläche Probe,BM3 Breite Soll
+Gewicht Muster,BM4 Breite Soll
+Gewicht Träger gewogen,Dicke bei 60 bar
+GG2 Ges. o. Leiste S,EA Breite n. Fix.
+Höchstzugkraft längs,EA Dicke links Tex.
+LAB Softness l 25,EA LD quer
+LAB Softness Q 75,EA Verlauf b. Anz.
+NA Gewicht n.Nad.S,Filznote
+NA Kerbentiefe,Gewicht Muster
+NA Länge v. Nadeln30,GG1 Ges. o. Leiste S
+NA Länge vor NadelnS,GG1 Rietbteite Soll
+Nacharbeit,GG1 Weblänge CIR
+PF n. fehlende Ösen,GG2 Rietbteite
+PF Steckdr.Anz.Fäd.,LAB Bezugsdeh. q GW
+PF-VR3 Flächengewicht Soll,LAB Nahtfestigk. GW
+PTI Länge,LAB Softness Q 50
+VA1 Länge n.Vorfix.,LAB Vliesanteil PS %
+VA2 Breite n.Vorf.S,NA Breite v. N. M40
+VA3 Länge n.Vorfix.,NA Gewicht Abfall
+VA3 Länge v.Vorfix.,NA Trägergew.vN Soll
+VA4 Breite n.Vorfix.,PF Bond.n.offen
+VA4 Stücklistenpos.,PF Breite Endkontr.
+VC2 Breite Ist,PF-VC1 Flächengewicht Soll
+VC2 Gewicht Vliesr.,PF-VR1 Flächengewicht Soll
+Vlies WS,PTI Länge
+VR1 Flächengewicht,VA1 Vorfixierspann.S
+VR1 Länge,VA3 Stücklistenpos.
+VR2 Legebreite,Var Bezugsd längs
+VR3 Breite,VC2 Gewicht Vliesr.
+VR4 Flächengewicht,VC2 Länge
+WD bei 140 bar,VC3 Breite Vliesr.
+WEAR,Vliesmeng WS
+,VR1 Breite
+,VR2 Breite
+,VR3 Flächengewicht
+,VR3 Länge
+,VR3 Stücklistenpos.
+,VR4 Länge
+,VR4 Legebreite
+,VR4 Stücklistenpos.
+,ID

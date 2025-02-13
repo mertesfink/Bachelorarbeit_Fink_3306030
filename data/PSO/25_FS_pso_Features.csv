@@ -1,0 +1,109 @@
+Gradient Boosting
+Produktgruppe Vertrieb
+Auflage Gewicht sum.
+NA Arbeitsp. nadeln
+SD Suchbegriff 1 K.
+SD Maschinenbez.
+AT1 Fäd.10 cm mitte
+AT1 Werksversion
+AT2 Fäd.10 cm mitte
+AT3 Atrocross-ModNr.
+BM4 Modul Version
+EA Auftrag
+Filzklasse
+GG2 Gew. Mod.W.Vers.
+NA List-Code
+NA Nadelb. Komb. S1
+NA Nadelb. Komb. S2
+NA Nadeltyp
+NA Sperrvermerk Mu.
+PF Charge
+SD Vertriebsbeleg
+VA1 Gew. Modul Vers.
+VA4 Gew. Modul Vers.
+VC1 Vliesmodulvers.
+VC1 Werkversion
+VC2 Vliesmodulvers.
+VR1 Auftragsnummer
+VR1 Charge
+VR1 List-Code
+VR1 Werkversion
+VR2 Arbeitsplatz
+VR2 Chargenstatus
+VR2 Modulnummer
+NA WE Produktion
+EA WE Datum a. Prod.
+PF Erstes WE-Datum
+PF WE aus Prod.
+VR2 WE Produktion
+SD Soll-Länge
+NA Dicke
+EA Dicke PF Textest
+_ -11% _= -15%
+_ -6% _= -11%
+_= -6% _= 6%
+3D Scan
+AT3 Breite n d Wick.
+Bezugsdehnung längs
+BM1 Länge Soll
+BM1 Stücklistenpos.
+BM2 Breite
+BM4 Breite
+BM4 Breite Soll
+BM4 Länge Soll
+Di. EA Textest
+Dicke bei 140 bar
+Dicke bei 60 bar
+EA Breite n. Fix.
+EA Breite n. Schm.
+EA Dicke links Tex.
+EA Dicke rechts Tex.
+EA LD links
+EA LD Textest VPE
+GG1 Ges. o. Leiste S
+GG1 Rietbteite Soll
+GG1 Weblänge CIR S
+Höchstzugkraft lä WW
+LAB Bezugsdeh. l GW
+LAB Bezugsdeh. q GW
+LAB DickeFV
+LAB M-10
+LAB Softness Q 75
+NA Breite n. Nad. S
+NA Breite v. N. M30
+NA Breite v. N. M40
+NA GesBr. m.L.v.d.N.
+NA Länge v. Nadeln40
+NA Länge vor NadelnS
+NA v. fehlende Ösen
+Nahtfestigkeit WW
+PF Bondn.Ö. a.Linie
+PF Bondn.ungl. Ösenl
+PF n. fehlende Ösen
+PF Steckdr. Durchm.
+PF Steckdr.Anz.Fäd.
+PF-EA Länge nach dem Vertropfen
+VA1 Länge n.Vorfix.
+VA2 Breite v.Vorf.S
+VA2 Stücklistenpos.
+VA2 Vorfixierspann.S
+VA3 Breite n.Vorfix.
+VA4 Breite n.Vorfix.
+VA4 Vorfixierspann.
+Var Abrieb PS
+Var Höchstzk längs
+Var HöchstzkD quer
+VC1 Länge
+VC1 Legebreite
+VC2 Breite Ist
+VC2 Gewicht Vliesr.
+Vliesmeng WS
+VR1 Breite
+VR1 Länge
+VR1 Legebreite
+VR1 Stücklistenpos.
+VR2 Flächengewicht
+VR2 Legebreite
+VR2 Stücklistenpos.
+VR3 Flächengewicht
+SEAM_STRENGTH_NEW

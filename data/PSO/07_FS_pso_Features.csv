@@ -1,0 +1,68 @@
+Gradient Boosting
+Stücknummer
+Ak. Sperrvermerk Mu.
+AT1 Atrocross-ModNr.
+AT1 Fadenz.pro 10 cm
+AT1 Versionsnummer
+PF Chargenstatus
+PF Jahr WE Prod.
+PF Monat WE Prod.
+PF Werk
+VA1 Gew. Mod.W.Vers.
+VA3 Gew. Modul Vers.
+VC1 Vliesmodulnummer
+VR1 Auftragsnummer
+VR1 Chargenstatus
+VR1 Versionsnummer
+VR1 Z-Status
+VR4 Modulnummer
+VR4 Versionsnummer
+EA WE Datum a. Prod.
+EA Letzte Änderung
+NA Letzte Änderung
+VR2 Letzte Änderung
+Abw LD z Sollwert
+Aktive Oberfläche
+AT3 Wickellänge
+Bezugsdehnung quer
+BM1 Breite
+BM1 Breite Soll
+BM3 Breite
+BM3 Breite Soll
+BM4 Breite Soll
+BM4 Länge Soll
+EA Länge n.fixieren
+EA LD Textest VPE
+GG1 Ges. o. Leiste
+GG1 Rietbteite
+GG1 Weblänge CIR S
+LAB HZK-Dehn. q GW
+LAB Softness l 50
+LAB Softness Q 1
+LAB Softness Q 50
+LAB VPI
+NA Breite v. N. M10S
+NA Breite v. N. M40S
+NA GesBr. m.L.v.d.N.
+NA Gewicht Abfall
+NA Länge v. Nadeln30
+NA LD VPE
+PF Bondn.Ö. a.Linie
+PF Gew. Endkontr.
+VA1 Breite n.Vorf.S
+VA1 Breite v.Vorf.S
+VA1 Länge n.Vorf.S
+VA1 Länge n.Vorfix.
+VA2 Breite n.Vorf.S
+VA3 Länge n.Vorfix.
+VA3 Stücklistenpos.
+Var Höchstzk quer
+Var HöchstzkD längs
+Var Nahtfestigkeit
+VC2 Länge
+Vliesmenge PS gewogen
+VR1 Länge
+VR3 Stücklistenpos.
+VR4 Stücklistenpos.
+CONTAMINATION_PAPER_STOCK
+TENSILE_STRENGTH_RUNNING

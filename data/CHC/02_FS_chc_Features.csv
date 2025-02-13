@@ -1,0 +1,113 @@
+Gradient Boosting
+Auflage
+neue Type
+Auflage Gewicht sum.
+EA WERK
+NA Arbeitsp. nadeln
+EA Arbeitsplatz
+SD Suchbegriff 1 K.
+SD Maschinenbez.
+AT1 Fäd.10 cm rechts
+AT1 Werksversion
+AT2 Fäd.10 cm mitte
+AT3 Atrocross-ModNr.
+AT3 Fäd.10 cm mitte
+BM2 Modulnummer
+BM4 Modulnummer
+GG2 Gew. Mod.W.Vers.
+NA Auftragsnummer
+NA Nadelb. Komb. S1
+NA Nadelteilung
+PF Auftragsnummer
+PF Chargenstatus
+PF List-Code
+Produktgruppe Fertigung
+SD Kundenname
+Stücknummer_1
+VA1 Gew. Mod.W.Vers.
+VA2 Gewebemodulnr.
+VC1 Vliesmodulnummer
+VC2 Vliesmodulnummer
+VR1 Charge
+VR1 List-Code
+VR1 Z-Status
+VR3 Modulnummer
+VR4 Versionsnummer
+VR4 Werkversion
+FELT_NUMBER
+NA WE Produktion
+PF WE aus Prod.
+VR1 Letzte Änderung
+VR2 Letzte Änderung
+VR2 WE Produktion
+NA Einstiche pro cm2
+PF Flächengew. Type
+NA Dicke Soll
+EA LD Textest
+_ -6% _= -11%
+_ 15%
+3D Scan
+Abrieb WS
+AT1 Basisbreite
+Bezugsdehnung quer
+BM1 Breite
+BM2 Breite
+BM2 Breite Soll
+BM3 Breite
+BM3 Breite Soll
+BM3 Länge
+BM4 Breite
+BM4 Stücklistenpos.
+EA Breite n. Fix.
+EA Fixierspannung
+EA Gewicht Abfall
+EA Länge n. Fix. S
+EA LD quer
+EA LD Textest VPE
+Filznote
+Gewicht Muster
+GG1 Schußz m. Leiste
+GG1 Stücklistenposition
+GG2 Schußz m. Leiste
+Gutschriftswert in €
+Höchstzugkraft lä MW
+Höchstzugkraft längs
+Höchstzugkraft-D lg
+LAB HZK-Dehn. q GW
+LAB L Fmax
+LAB Softness l 25
+LAB Softness Q 50
+LAB VPI
+NA Breite v. N. M20S
+NA Breite v. N. M30S
+NA Breite v. N. M40
+NA Kerbentiefe
+NA Länge v. Nadeln10
+NA LD Tex Typenstamm
+NA LD Textest
+NA v. fehlende Ösen
+Nahtfestigkeit
+Nahtfestigkeit WW
+PF Bond.n.offen
+PF Bondn.ungl. Ösenl
+PF-EA Länge nach dem Vertropfen
+PF. nach. fehl. Ösen
+PF. vorl. Fehl. Ösen
+PTI  LD
+VA1 Stücklistenpos.
+VA1 Vorfixierspann.S
+VA2 Breite v.Vorfix.
+VA2 Länge v.Vorfix.
+VA2 Vorfixierspann.S
+VA3 Breite n.Vorfix.
+VA3 Vorfixierspann.
+Var Höchstzk längs
+Var Höchstzk quer
+Var HöchstzkD quer
+VC1 Breite Vliesr.
+VC1 Gewicht Vliesr.
+VC3 Legebreite
+Vliesmenge PS gewogen
+VR4 Stücklistenpos.
+AVERAGE_THICKNESS
+TENSILE_STRENGTH_CROSS_NEW

@@ -1,0 +1,31 @@
+Linear Regressor,SVR,Random Forest,Gradient Boosting
+Stücknummer,Stücknummer,Stücknummer,Stücknummer
+Produktgruppe Vertrieb,Produktgruppe Vertrieb,Produktgruppe Vertrieb,Produktgruppe Vertrieb
+Träger,Träger,Träger,Träger
+Auflage,Auflage,Auflage,Auflage
+Benadelungstechnik,Benadelungstechnik,Benadelungstechnik,Benadelungstechnik
+Oberflächenbehandlung,Oberflächenbehandlung,Oberflächenbehandlung,Oberflächenbehandlung
+Zweckbehandlung,Zweckbehandlung,Zweckbehandlung,Zweckbehandlung
+NA Einstiche pro cm2,NA Einstiche pro cm2,NA Einstiche pro cm2,NA Einstiche pro cm2
+Auflage Gewicht sum.,Auflage Gewicht sum.,Auflage Gewicht sum.,Auflage Gewicht sum.
+SD Soll-Länge,SD Soll-Länge,SD Soll-Länge,SD Soll-Länge
+SD Soll-Breite,SD Soll-Breite,SD Soll-Breite,SD Soll-Breite
+PF Flächengewicht,PF Flächengewicht,PF Flächengewicht,PF Flächengewicht
+PF Flächengew. Type,PF Flächengew. Type,PF Flächengew. Type,PF Flächengew. Type
+NA LD,NA LD,NA LD,NA LD
+NA LD Typenstamm,NA LD Typenstamm,NA LD Typenstamm,NA LD Typenstamm
+NA Dicke,NA Dicke,NA Dicke,NA Dicke
+NA Dicke Soll,NA Dicke Soll,NA Dicke Soll,NA Dicke Soll
+EA LD Textest,EA LD Textest,EA LD Textest,EA LD Textest
+EA LD Text.Typenst.,EA LD Text.Typenst.,EA LD Text.Typenst.,EA LD Text.Typenst.
+SD Debitor,SD Debitor,SD Debitor,SD Debitor
+SD Suchbegriff 1 K.,SD Suchbegriff 1 K.,SD Suchbegriff 1 K.,SD Suchbegriff 1 K.
+SD Maschinenbez.,SD Maschinenbez.,SD Maschinenbez.,SD Maschinenbez.
+SD Einsatzst.-bez.,SD Einsatzst.-bez.,SD Einsatzst.-bez.,SD Einsatzst.-bez.
+NA Kerbentiefe,NA Kerbentiefe,NA Kerbentiefe,NA Kerbentiefe
+Aktive Oberfläche,Aktive Oberfläche,Aktive Oberfläche,Aktive Oberfläche
+EA Abw Länge Soll,EA Abw Länge Soll,EA Abw Länge Soll,EA Abw Länge Soll
+EA Fixierspannung,EA Fixierspannung,EA Fixierspannung,EA Fixierspannung
+EA Breite n. Schm.,EA Breite n. Schm.,EA Breite n. Schm.,EA Breite n. Schm.
+Nadelvorschrift,Nadelvorschrift,Nadelvorschrift,Nadelvorschrift
+FELT_LIFE_NET,FELT_LIFE_NET,FELT_LIFE_NET,FELT_LIFE_NET

@@ -1,0 +1,80 @@
+Gradient Boosting
+Stücknummer
+Produktgruppe Vertrieb
+Auflage Gewicht sum.
+SD Suchbegriff 1 K.
+Ak. Sperrvermerk Mu.
+AT2 Fäd.10 cm rechts
+AT2 Versionsnummer
+AT2 Werksversion
+BM1 Modulnummer
+EA Chargen Status
+EA List-Code
+GG2 Kettversion
+NA Charge
+NA Nadelb. Komb. S3
+NA Nadelteilung
+PF Auftragsnummer
+SD Vertriebsbeleg
+VA2 Gew. Mod.W.Vers.
+VA2 Gewebemodulnr.
+VA4 Gew. Mod.W.Vers.
+VR1 Arbeitsplatz
+VR1 Charge
+VR1 Mischungsnummer
+VR1 Werk
+VR1 Z-Status
+VR2 Charge
+PF WE aus Prod.
+VR1 WE Produktion
+NA LD Typenstamm
+NA Dicke Soll
+Abw.LD.n.d.Nad. Soll
+_ -6% _= -11%
+_ 11% _= 15%
+_ 15%
+AT1 Basisbreite
+BM1 Länge Soll
+BM3 Stücklistenpos.
+Dicke bei 100 bar
+Dicke bei 60 bar
+EA Abw LD Textest
+EA Breite n. Fix.
+EA Fixiersp. Soll
+EA Länge n.fixieren
+EA LD links
+GG1 Rietbteite Soll
+GG1 Weblänge CIR S
+Gutschriftswert in €
+LAB Softness l 75
+LAB Trennfestigk. GW
+NA Breite v. N. M10
+NA Gewicht Abfall
+NA Länge v. Nadeln30
+NA Max. Spannung KN
+NA Trägergew.v.Nad.
+Nacharbeit
+Nahtfestigkeit MW
+PF Bondn.ungl. Ösenl
+PF Durchm. Stahlsp.
+PF-VC2 Flächengewicht Soll
+PF. nach. fehl. Ösen
+PTI  LD
+VA1 Breite n.Vorfix.
+VA1 Länge vor Vorfixieren Soll
+VA2 Breite n.Vorf.S
+VA2 Stücklistenpos.
+VA2 Vorfixierspann.
+VA3 Länge n.Vorfix.
+VA4 Breite n.Vorfix.
+Var HöchstzkD längs
+VC2 Legebreite
+Vliesgewicht PS
+VR1 Breite
+VR2 Stücklistenpos.
+VR3 Länge
+VR4 Breite
+VR4 Flächengewicht
+WD bei 100 bar
+TENSILE_STRENGTH_RUNNING
+WEAR

@@ -1,0 +1,128 @@
+Gradient Boosting
+Träger
+Auflage
+Benadelungstechnik
+neue Type
+EA WERK
+NA Arbeitsp. nadeln
+SD Debitor
+SD Suchbegriff 1 K.
+Ak. Sperrvermerk Mu.
+Akt. Status Type
+AT1 Fadenz.pro 10 cm
+AT2 Fäd.20 cm links
+AT2 Versionsnummer
+AT3 Atrocross-ModNr.
+AT3 Fäd.10 cm rechts
+BM1 Modulnummer
+BM2 Modul Version
+BM3 Modul Version
+BM4 Modulnummer
+EA Chargen Status
+Filzklasse
+GG2 Gew. Mod.W.Vers.
+GG2 Kettversion
+NA Charge
+NA List-Code
+NA Werk
+Naht
+PF Chargenstatus
+PF List-Code
+PF Monat WE Prod.
+PF Werk
+PF Z-Status
+Randbehandlung
+SD Einsatzstelle
+SD Vertriebsbeleg
+SD VK-Auftrag Pos.
+Statistikgruppe
+VA1 Gew. Modul Vers.
+VA1 Gewebemodulnr.
+VA2 Gew. Mod.W.Vers.
+VA2 Gew. Modul Vers.
+VA4 Gew. Modul Vers.
+VC2 Werkversion
+VR1 Arbeitsplatz
+VR1 Auftragsnummer
+VR1 Chargenstatus
+VR1 List-Code
+VR1 Werk
+VR2 Arbeitsplatz
+VR2 Auftragsnummer
+VR2 Mischungsnummer
+EA WE Datum a. Prod.
+VR1 Letzte Änderung
+NA LD Typenstamm
+EA LD Text.Typenst.
+EA Dicke PF Textest
+PF Dicke Typ.
+_ -15%
+_ -11% _= -15%
+_ 6% _= 11%
+Aktive Oberfläche
+AT1 Basisbreite
+AT1 Breite n d Wick.
+AT3 Wickellänge
+Bezugsdehnung quer
+BM1 Länge Soll
+BM1 Stücklistenpos.
+BM3 Länge
+BM4 Länge Soll
+EA Breite n. Fix. S
+EA Dicke gen. Soll
+EA Dicke links Tex.
+EA Dicke rechts Tex.
+EA Fixiersp. Soll
+EA LD rechts
+EA LD Textest VPE
+EA Pressdruck
+EA Verzug Laufstr.
+GG1 Ges. o. Leiste S
+GG2 Schußz m. Leiste
+Gutschriftswert in €
+Höchstzugkraft längs
+Höchszugk-Dehn quer
+LAB Bezugsdeh. l GW
+LAB HZKraft längs GW
+LAB L Fmax
+LAB Softness Q 25
+LAB Softness Q 50
+NA Breite n. Nad. S
+NA Breite v. N. M20S
+NA Breite v. N. M40S
+NA Länge v. Nadeln20
+NA LD Soll
+PF Anz fehl. Ösen
+PF Bond.n.offen
+PF Flächengew. VPE
+PF Gew. Endkontr.
+PF-VC2 Flächengewicht Soll
+PTI Flächengewicht
+VA1 Breite n.Vorfix.
+VA1 Länge n.Vorf.S
+VA1 Stücklistenpos.
+VA2 Breite v.Vorf.S
+VA2 Stücklistenpos.
+VA3 Länge n.Vorfix.
+VA3 Stücklistenpos.
+VA3 Vorfixierspann.
+Var Abrieb WS
+Var Höchstzk längs
+Var HöchstzkD quer
+Var Nahtfestigkeit
+VC1 Gewicht Vliesr.
+VC1 Länge
+VC1 Legebreite
+VC3 Gewicht Vliesr.
+Vlies PS
+Vliesgewicht PS
+Vliesgewicht WS
+Vorlauf der Naht PF
+VR2 Flächengewicht
+VR2 Stücklistenpos.
+VR3 Stücklistenpos.
+VR4 Länge
+VR4 Stücklistenpos.
+CONTAMINATION_TOTAL
+TENSILE_STRENGTH_RUNNING
+AVERAGE_THICKNESS

@@ -1,0 +1,132 @@
+Gradient Boosting
+Produktgruppe Vertrieb
+Zweckbehandlung
+EA WERK
+Akt. Status Type
+AT1 Atrocross-ModNr.
+AT1 Fadenz.pro 10 cm
+AT1 Werksversion
+AT2 Fäd.10 cm rechts
+AT2 Fäd.20 cm links
+AT3 Fäd.10 cm mitte
+AT3 Werksversion
+BM2 Modul Version
+BM2 Modulnummer
+EA Charge
+EA Fixierungsart
+EA List-Code
+Filzklasse
+GG1 Gew. Mod.W.Vers.
+GG1 Gew. Modul Vers.
+GG2 Gew. Modul Vers.
+GG2 Kettversion
+NA Charge
+NA Nadelb. Komb. S1
+NA Nadelteilung
+NA Z-Status
+PF Z-Status
+Produktgruppe Fertigung
+SD Maschine
+VC1 Werkversion
+VR1 Arbeitsplatz
+VR1 List-Code
+VR1 Versionsnummer
+VR1 Werk
+VR2 Auftragsnummer
+VR2 Charge
+VR2 Z-Status
+VR3 Versionsnummer
+VR4 Modulnummer
+EA Letzte Änderung
+VR1 Letzte Änderung
+VR1 WE Produktion
+SD Soll-Breite
+PF Flächengewicht
+PF Flächengew. Type
+NA LD Typenstamm
+NA Dicke Soll
+Abw.LD.n.d.Nad. Soll
+Abw LD z Sollwert
+_ -15%
+_ -6% _= -11%
+_ 11% _= 15%
+AT1 Basisbreite
+AT2 Basisbreite
+Bezugsdehnung längs
+BM1 Breite Soll
+BM1 Länge
+BM1 Länge Soll
+BM2 Breite
+BM2 Stücklistenpos.
+BM3 Länge Soll
+BM3 Stücklistenpos.
+BM4 Breite Soll
+BM4 Länge
+BM4 Länge Soll
+Di. EA Textest
+Dicke bei 140 bar
+EA Abw Länge Soll
+EA Breite n. Fix.
+EA Breite n. Fix. S
+EA Breite n. Schm.
+EA Länge n.fixieren
+EA LD rechts
+EA LD Textest VPE
+Gewicht Muster
+GG1 Ges. o. Leiste S
+GG1 Weblänge CIR
+GG2 Ges. o. Leiste
+GG2 Rietbteite
+Höchstzugkraft längs
+Höchstzugkraft quer
+LAB DickeFV
+LAB L Fmax
+LAB Softness Q 25
+NA Breite n. Nad. S
+NA Breite v. N. M10S
+NA Breite v. N. M20S
+NA Breite v. N. M30
+NA Breite v. N. M30S
+NA GesBr. m.L.v.d.N.
+NA Kerbentiefe
+NA Länge v. Nadeln40
+NA LD Textest
+NA v. fehlende Ösen
+Nahtfestigkeit MW
+Nahtfestigkeit WW
+PF Anz fehl. Ösen
+PF Bond.n.offen
+PF Breite Endkontr.
+PF Länge Endkontr.
+PF LD Endkontrolle
+PF-VC1 Flächengewicht Soll
+PF-VR2 Flächengewicht Soll
+PF-VR3 Flächengewicht Soll
+PTI Flächengewicht
+PTI Länge
+Trennfestigk G-G
+VA1 Breite n.Vorf.S
+VA1 Stücklistenpos.
+VA1 Vorfixierspann.
+VA2 Breite v.Vorfix.
+VA2 Länge v.Vorfix.
+VA2 Stücklistenpos.
+VA3 Breite v.Vorfix.
+VA3 Länge v.Vorfix.
+Var Abrieb WS
+Var Höchstzk längs
+Var Nahtfestigkeit
+VC2 Breite Ist
+VC2 Gewicht Vliesr.
+Vlies PS
+Vliesmeng PS
+Vliesmenge PS gewogen
+VR1 Flächengewicht
+VR1 Länge
+VR1 Stücklistenpos.
+VR2 Flächengewicht
+VR3 Stücklistenpos.
+WD bei 140 bar
+WD bei 20 bar
+WD bei 60 bar
+SEAM_STRENGTH_NEW

@@ -1,0 +1,114 @@
+SVR,Gradient Boosting
+EA WERK,Oberflächenbehandlung
+SD Debitor,Aktive Oberfläche-S
+AT1 Atrocross-ModNr.,Auflage Gewicht sum.
+AT1 Fäd.10 cm links,SD Debitor
+AT1 Versionsnummer,SD Maschinenbez.
+AT2 Versionsnummer,Ak. Sperrvermerk Mu.
+AT2 Werksversion,AT2 Fäd.10 cm rechts
+AT3 Atrocross-ModNr.,AT2 Fäd.20 cm links
+BM4 Modulnummer,AT3 Version
+EA Charge,BM1 Modul Version
+Filzklasse,BM2 Modul Version
+GG2 Gewebemodulnr.,Filzklasse
+NA Charge,GG1 Gew. Mod.W.Vers.
+NA Chargenstatus,GG1 Gew. Modul Vers.
+NA Nadelb. Komb. S1,GG2 Kettversion
+Naht,NA Nadelb. Komb. S3
+PF List-Code,PF KW 1.WE Prod.
+Randbehandlung,PF Monat 1.WE Prod.
+SD VK-Auftrag Pos.,Statistikgruppe
+Statistikgruppe,Stücknummer_1
+VA1 Gew. Modul Vers.,VA1 Gew. Modul Vers.
+VA3 Gew. Mod.W.Vers.,VA3 Gew. Modul Vers.
+VA3 Gew. Modul Vers.,VA4 Gew. Mod.W.Vers.
+VA3 Gewebemodulnr.,VA4 Gew. Modul Vers.
+VC2 Vliesmodulvers.,VC1 Vliesmodulvers.
+VC3 Vliesmodulvers.,VC2 Vliesmodulnummer
+VR1 Auftragsnummer,VC2 Vliesmodulvers.
+VR2 Modulnummer,VR1 Charge
+VR2 Versionsnummer,VR1 Versionsnummer
+VR2 Werk,VR2 Arbeitsplatz
+VR3 Modulnummer,VR2 Chargenstatus
+VR3 Versionsnummer,VR2 Mischungsnummer
+SD Soll-Breite,VR2 Werkversion
+NA Dicke Soll,VR3 Werkversion
+Abw.LD.n.d.Nad. Soll,NA WE Produktion
+EA Dicke PF Textest,EA Letzte Änderung
+_ -6% _= -11%,PF Erstes WE-Datum
+_ 6% _= 11%,VR1 WE Produktion
+_ 11% _= 15%,SD Soll-Länge
+Abrieb PS,SD Soll-Breite
+Abrieb WS,PF Flächengew. Type
+AT1 Basisbreite,NA LD Typenstamm
+AT2 Wickellänge,EA LD Text.Typenst.
+BM1 Länge Soll,_ -6% _= -11%
+BM2 Stücklistenpos.,_ 11% _= 15%
+BM3 Länge,3D Scan
+Dicke bei 60 bar,Aktive Oberfläche
+EA Abw Länge Soll,AT1 Wickellänge
+EA Breite n. Fix.,BM1 Stücklistenpos.
+EA Breite n. Schm.,BM2 Länge
+EA Dicke gen. Soll,BM2 Stücklistenpos.
+EA Dicke links Tex.,BM3 Stücklistenpos.
+EA Fixiersp. Soll,BM4 Stücklistenpos.
+EA Fixierspannung,Di. EA Textest
+EA Länge n. Fix. S,Dicke bei 100 bar
+EA Länge n. Rundl. S,EA Abw Br n d Sch Soll
+EA LD links,EA Breite n. Fix.
+Gewicht Träger gewogen,EA Breite n. Fix. S
+GG1 Ges. o. Leiste,EA Dicke rechts Tex.
+GG2 Ges. o. Leiste,EA Fixiersp. Soll
+GG2 Rietbteite,EA Länge n. Fix. S
+Höchstzugkraft längs,EA Länge n.fixieren
+Höchstzugkraft quer,EA LD Textest VPE
+LAB Nahtfestigk. GW,EA Verzug Laufstr.
+LAB Softness l 50,Gewicht Muster
+LAB Softness l 75,GG1 Ges. o. Leiste S
+LAB Softness Q 25,GG1 Rietbteite
+LAB Softness Q 50,GG1 Weblänge CIR S
+NA Breite n. Nad. S,GG2 Ges. o. Leiste S
+NA Breite n. Nadeln,GG2 Stücklistenposition
+NA Breite v. N. M30,Höchstzugkraft lä WW
+NA Breite v. N. M40,Höchstzugkraft längs
+NA Breite v. N. M40S,Höchstzugkraft quer
+NA Länge v. Nadeln20,LAB Bezugsdeh. l GW
+NA Länge v. Nadeln30,LAB L Fmax
+NA LD Tex Typenstamm,LAB M-Fmax
+Nacharbeit,LAB Softness l 25
+PF Anz fehl. Ösen,LAB Softness Q 50
+PF Durchm. Stahlsp.,NA Breite n. Nadeln
+PF Gew. Endkontr.,NA Breite v. N. M10
+PF LD Endkontrolle,NA Breite v. N. M10S
+PF Steckdr. Durchm.,NA Breite v. N. M40
+PF-VC1 Flächengewicht Soll,NA Gewicht n.Nad.S
+PF-VR1 Flächengewicht Soll,NA Länge v. Nadeln10
+PTI Breite,NA n. fehlende Ösen
+PTI Länge,Nahtfestigkeit WW
+VA1 Vorfixierspann.,PF Bond.n.offen
+VA2 Breite n.Vorfix.,PF Bondn.Ö. a.Linie
+VA2 Breite v.Vorf.S,PF Dicke
+VA2 Länge n.Vorf.S,PF Dicke VPE
+VA2 Länge n.Vorfix.,PF Gew. Endkontr.
+VA2 Länge v.Vorfix.,PF-VC2 Flächengewicht Soll
+VA2 Länge vor Vorfixieren Soll,PF-VR1 Flächengewicht Soll
+VA2 Vorfixierspann.,PF. vorl. Fehl. Ösen
+VA3 Breite n.Vorfix.,PTI Breite
+VA4 Stücklistenpos.,PTI Total
+Var Höchstzk quer,Trennfestigk G-G
+VC1 Gewicht Vliesr.,VA1 Länge vor Vorfixieren Soll
+VC1 Länge,VA1 Vorfixierspann.
+VC2 Breite Ist,VA2 Breite v.Vorf.S
+VC2 Legebreite,VA2 Länge n.Vorf.S
+Vlies PS,VA2 Länge vor Vorfixieren Soll
+Vliesmeng PS,VA4 Länge n.Vorfix.
+VR1 Länge,Var Abrieb PS
+VR1 Legebreite,Var Nahtfestigkeit
+VR3 Stücklistenpos.,VC1 Breite Vliesr.
+WD bei 140 bar,VC2 Gewicht Vliesr.
+WD bei 20 bar,VC3 Gewicht Vliesr.
+WD bei 60 bar,Vorlauf der Naht PF
+TENSILE_STRENGTH_RUNNING,VR2 Länge
+,VR2 Legebreite
+,VR3 Länge
+,WD bei 140 bar

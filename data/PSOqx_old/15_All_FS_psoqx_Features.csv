@@ -1,0 +1,134 @@
+SVR,Gradient Boosting
+Träger,Oberflächenbehandlung
+Aktive Oberfläche-S,Zweckbehandlung
+Auflage Gewicht sum.,Auflage Gewicht sum.
+EA WERK,EA WERK
+NA Arbeitsp. nadeln,NA Arbeitsp. nadeln
+SD Maschinenbez.,EA Arbeitsplatz
+AT1 Fäd.10 cm mitte,SD Debitor
+AT1 Fäd.10 cm rechts,SD Suchbegriff 1 K.
+AT1 Versionsnummer,Akt. Status Type
+AT1 Werksversion,AT1 Atrocross-ModNr.
+AT2 Fäd.10 cm rechts,AT1 Fadenz.pro 10 cm
+AT2 Fadenz.pro 10 cm,AT2 Fäd.10 cm rechts
+AT3 Fäd.30 cm links,AT3 Fadenz.pro 10 cm
+AT3 Version,BM1 Modul Version
+BM1 Modul Version,BM4 Modulnummer
+BM2 Modul Version,EA Arbeitsplan
+BM3 Modulnummer,EA List-Code
+EA Z-Status,NA Nadelteilung
+GG1 Gew. Modul Vers.,NA Z-Status
+GG2 Gewebemodulnr.,PF Auftragsnummer
+NA Auftragsnummer,PF Charge
+NA Charge,PF Monat WE Prod.
+NA Werk,PF Z-Status
+NA Z-Status,Randbehandlung
+Naht,VA4 Gewebemodulnr.
+PF Auftragsnummer,VC2 Vliesmodulvers.
+PF Jahr WE Prod.,VC3 Vliesmodulvers.
+PF KW 1.WE Prod.,VC3 Werkversion
+PF Monat WE Prod.,VR1 Werk
+PF Werk,VR1 Werkversion
+Stücknummer_1,VR2 Mischungsnummer
+VA1 Gew. Mod.W.Vers.,VR2 Modulnummer
+VA2 Gew. Mod.W.Vers.,VR3 Modulnummer
+VA3 Gew. Mod.W.Vers.,VR4 Versionsnummer
+VA3 Gew. Modul Vers.,VR1 WE Produktion
+VA4 Gewebemodulnr.,REMOVAL_DATE
+VC1 Vliesmodulnummer,SD Soll-Breite
+VC1 Werkversion,NA LD
+VC2 Werkversion,EA LD Text.Typenst.
+VC3 Vliesmodulvers.,EA Dicke PF Textest
+VC3 Werkversion,_ -6% _= -11%
+VR1 Auftragsnummer,_= -6% _= 6%
+VR1 Mischungsnummer,_ 6% _= 11%
+VR1 Versionsnummer,3D Scan
+VR1 Werkversion,AT1 Wickellänge
+VR2 Arbeitsplatz,BM1 Breite
+VR2 Auftragsnummer,BM1 Breite Soll
+VR2 Mischungsnummer,BM1 Stücklistenpos.
+VR2 Versionsnummer,BM2 Breite
+VR2 Werkversion,BM4 Breite Soll
+VR3 Modulnummer,Dicke bei 100 bar
+VR4 Modulnummer,Dicke bei 140 bar
+NA WE Produktion,EA Breite n. Fix.
+PF Erstes WE-Datum,EA Fixiersp. Soll
+PF WE aus Prod.,EA Verlauf b. Anz.
+VR1 Letzte Änderung,GG2 Schußz m. Leiste
+REPORT_DATE,GG2 Stücklistenposition
+Auflage Gewicht,Höchstzugkraft quer
+NA LD,Höchszugk-Dehn quer
+NA Dicke Soll,LAB Bezugsdeh. l GW
+Abw.LD.n.d.Nad. Soll,LAB M-10
+Abrieb PS,LAB VPI
+Abrieb WS,NA Breite n. Nadeln
+Abw. Gewicht Muster,NA Länge n.d. Nadeln
+AT3 Breite n d Wick.,NA Länge vor NadelnS
+Bezugsdehnung längs,NA LD Tex Typenstamm
+Bezugsdehnung quer,NA Max. Spannung KN
+BM1 Länge Soll,NA Trägergew.vN Soll
+BM4 Länge Soll,Nacharbeit
+Di. EA Textest,Nahtfestigkeit
+EA Abw Br n d Sch Soll,PF Dicke
+EA Länge n.fixieren,PF Gew. Endkontr.
+EA LD links,PF LD Endkontrolle
+GG1 Rietbteite Soll,PF Steckdr. Durchm.
+GG1 Weblänge CIR,PF-VC2 Flächengewicht Soll
+GG1 Weblänge CIR S,PF-VR1 Flächengewicht Soll
+GG2 Ges. o. Leiste S,PF-VR2 Flächengewicht Soll
+GG2 Rietbteite,VA1 Länge n.Vorf.S
+Gutschriftswert in €,VA2 Vorfixierspann.S
+LAB Bezugsdeh. q GW,VA3 Länge n.Vorfix.
+LAB Softness Q 1,VA4 Breite n.Vorfix.
+LAB Softness Q 75,Var Bezugsd quer
+LAB Vliesanteil PS %,Var Höchstzk längs
+LAB Vliesanteil WS %,VC3 Gewicht Vliesr.
+NA Breite v. N. M10S,Vliesmeng WS
+NA Breite v. N. M30S,Vorlauf der Naht PF
+NA Breite v. N. M40,VR1 Länge
+NA Gewicht n. nadeln,VR1 Stücklistenpos.
+NA Länge v. Nadeln10,VR2 Stücklistenpos.
+NA Länge vor NadelnS,WD bei 140 bar
+NA LD Soll,
+NA LD Tex Typenstamm,
+NA Max. Spannung KN,
+NA Trägergew.vN Soll,
+Nacharbeit,
+Nahtfestigkeit,
+Nahtfestigkeit MW,
+PF Abw Flgew z Soll,
+PF Bondn.ungl. Ösenl,
+PF Durchm. Stahlsp.,
+PF-VC1 Flächengewicht Soll,
+PF-VR1 Flächengewicht Soll,
+PF-VR2 Flächengewicht Soll,
+PF-VR3 Flächengewicht Soll,
+Trennfestigk G-G,
+VA1 Breite v.Vorf.S,
+VA1 Länge n.Vorf.S,
+VA1 Länge n.Vorfix.,
+VA1 Länge vor Vorfixieren Soll,
+VA1 Vorfixierspann.S,
+VA2 Breite n.Vorfix.,
+VA2 Länge n.Vorf.S,
+VA2 Stücklistenpos.,
+VA3 Breite v.Vorfix.,
+VA3 Stücklistenpos.,
+VA4 Breite n.Vorfix.,
+Var Höchstzk quer,
+Var Nahtfestigkeit,
+VC1 Länge,
+VC1 Legebreite,
+VC2 Breite Ist,
+VC3 Länge,
+VR1 Breite,
+VR1 Flächengewicht,
+VR1 Legebreite,
+VR2 Flächengewicht,
+VR2 Legebreite,
+VR2 Stücklistenpos.,
+VR3 Legebreite,
+WD bei 20 bar,
+WD bei 60 bar,
+ASH_SOLUBLE,
+WEAR,
